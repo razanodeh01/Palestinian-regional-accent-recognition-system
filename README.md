@@ -2,13 +2,13 @@
 This project focuses on developing an Acoustic Palestinian Regional Accent Recognition System. 
 Our system can classify a speaker's accent from four major Palestinian regions:
 
-###    🔹 Jerusalem.
+🔹 **Jerusalem.** 
 
-###    🔹 Nablus.
+🔹 **Nablus.** 
 
-###    🔹 Hebron.
+🔹 **Hebron.**
 
-###    🔹 Ramallah.
+🔹 **Ramallah.**
 
 
 Using Python, we extract MFCC (Mel-Frequency Cepstral Coefficients) features from speech samples and classify accents using Machine Learning models.<br/>
@@ -16,15 +16,15 @@ Using Python, we extract MFCC (Mel-Frequency Cepstral Coefficients) features fro
 
 
 # 🚀 Key Features
-✅ Speech Feature Extraction - Extracts acoustic features from .wav files.
+✅ **Speech Feature Extraction** - Extracts acoustic features from .wav files.
 
-✅ Multi-Class Accent Classification - Recognizes accents using ML models.
+✅ **Multi-Class Accent Classification** - Recognizes accents using ML models.
 
-✅ Multiple Classifiers - Supports SVM, Random Forest, and KNN.
+✅ **Multiple Classifiers** - Supports SVM, Random Forest, and KNN.
 
-✅ GUI for File Selection - Choose an audio file easily.
+✅ **GUI for File Selection** - Choose an audio file easily.
 
-✅ Performance Metrics - Provides accuracy, confusion matrix, and classification reports.
+✅ **Performance Metrics** - Provides accuracy, confusion matrix, and classification reports.
 
 
 # 🖥️ How It Works
