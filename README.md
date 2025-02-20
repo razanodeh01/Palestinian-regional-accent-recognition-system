@@ -41,5 +41,5 @@ Using Python, we extract MFCC (Mel-Frequency Cepstral Coefficients) features fro
 # 🎬 Demo: Running the Accent Recognition System
 Watch the video below to see the system in action! 🚀
 
-
+https://github.com/user-attachments/assets/ae369113-bfa4-4d9a-a88b-58418c96e131
 
