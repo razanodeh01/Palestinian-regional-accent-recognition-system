@@ -45,6 +45,6 @@ Watch the video below to see the system in action! 🚀
 
 https://github.com/user-attachments/assets/ae369113-bfa4-4d9a-a88b-58418c96e131
 
-## 👥 Authors
+## 👥 Contributors
 - [**Razan Abdalrahman**](https://github.com/razanodeh01)
 - [**Duaa Abu Sliman**](https://github.com/Duaa111222)
