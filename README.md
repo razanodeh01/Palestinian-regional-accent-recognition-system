@@ -1,3 +1,5 @@
+# Palestinian regional accent recognition system
+
 ## 📝 Project Overview
 This project focuses on developing an Acoustic Palestinian Regional Accent Recognition System. 
 Our system can classify a speaker's accent from four major Palestinian regions:
@@ -43,3 +45,6 @@ Watch the video below to see the system in action! 🚀
 
 https://github.com/user-attachments/assets/ae369113-bfa4-4d9a-a88b-58418c96e131
 
+## 👤 Author
+- [**Razan Abdalrahman**](https://github.com/razanodeh01)
+- [**Duaa Abu Sliman**](https://github.com/Duaa111222)
